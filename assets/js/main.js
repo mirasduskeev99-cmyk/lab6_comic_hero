@@ -1,0 +1,1 @@
+alert('welcome to Lab 4! JavaScript is working!');
